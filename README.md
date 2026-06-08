@@ -1,5 +1,6 @@
 # Eduhub - Modern Learning Management System (LMS)
 
+
 Eduhub is a comprehensive, full-stack Learning Management System built with the MERN stack. It empowers instructors to create courses with dynamic video content, automatically generate quizzes using AI, and engage with students in real-time. For students, it provides a seamless learning experience with progress tracking, secure course purchasing, and collaborative chatrooms.
 
 ## 🚀 Key Features
@@ -95,3 +96,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📄 License
 This project is licensed under the MIT License.
 
+Author: Atul Rana
+Contact : 8266812828
